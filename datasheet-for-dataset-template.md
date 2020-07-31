@@ -173,6 +173,21 @@ or other access point to any supporting documentation._
 
 ## Preprocessing/cleaning/labeling
 
+### Was any preprocessing/cleaning/labeling of the data done (e.g., discretization or bucketing, tokenization, part-of-speech tagging, SIFT feature extraction, removal of instances, processing of missing values)?
+
+_If so, please provide a description. If not, you may skip the remainder of the questions in
+this section._
+
+### Was the “raw” data saved in addition to the preprocessed/cleaned/labeled data (e.g., to support unanticipated future uses)?
+
+_If so, please provide a link or other access point to the “raw” data._
+
+### Is the software used to preprocess/clean/label the instances available?
+
+_If so, please provide a link or other access point._
+
+### Any other comments?
+
 ## Uses
 
 ## Distribution
