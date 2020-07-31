@@ -151,7 +151,7 @@ _If not, you may skip the remainder of the questions in this section._
 
 _If so, please describe (or show with screenshots or other information) how notice was provided,
 and provide a link or other access point to, or otherwise reproduce, the exact language of the
-notification itself.
+notification itself._
 
 ### Did the individuals in question consent to the collection and use of their data?
 
