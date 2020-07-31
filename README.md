@@ -14,9 +14,9 @@ The problem it is trying to solve:
 > Despite the importance of data to machine learning, there is no standardized process for
 > documenting machine learning datasets. To address this gap, we propose _datasheets for datasets_.
 
-## Why use a markdownn file for the datasheet?
+## Why use a markdown file for the datasheet?
 
-The short exaplanation: using a markdown file allows us to easily compare (diff) one version
+The short explanation: using a markdown file allows us to easily compare (diff) one version
 of the datasheet with another version. 
 
 The longer explanation:
