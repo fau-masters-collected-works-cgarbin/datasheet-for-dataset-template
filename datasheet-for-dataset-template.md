@@ -9,11 +9,12 @@ Jump to section:
 - [Uses](#uses)
 - [Distribution](#distribution)
 - [Maintenance](#maintenance)
-- [Motivation](#motivation)
 
 The questions in this section are primarily intended to encourage dataset creators
 to clearly articulate their reasons for creating the dataset and to promote transparency
 about funding interests.
+
+## Motivation
 
 ### For what purpose was the dataset created? Was there a specific task in mind?
 
