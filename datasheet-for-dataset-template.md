@@ -113,6 +113,62 @@ _If so, please provide a description._
 
 ## Collection process
 
+### How was the data associated with each instance acquired?
+
+_Was the data directly observable (e.g., raw text, movie ratings), reported by subjects (e.g.,
+survey responses), or indirectly inferred/derived from other data (e.g., part-of-speech tags,
+model-based guesses for age or language)? If data was reported by subjects or indirectly
+inferred/derived from other data, was the data validated/verified? If so, please describe how._
+
+### What mechanisms or procedures were used to collect the data (e.g., hardware apparatus or sensor, manual human curation, software program, software API)?
+
+_How were these mechanisms or procedures validated?_
+
+### If the dataset is a sample from a larger set, what was the sampling strategy (e.g., deterministic, probabilistic with specific sampling probabilities)?
+
+### Who was involved in the data collection process (e.g., students, crowdworkers, contractors) and how were they compensated (e.g., how much were crowdworkers paid)?
+
+### Over what timeframe was the data collected?
+
+_Does this timeframe match the creation timeframe of the data associated with the instances (e.g.
+recent crawl of old news articles)? If not, please describe the timeframe in which the data
+associated with the instances was created._
+
+### Were any ethical review processes conducted (e.g., by an institutional review board)?
+
+_If so, please provide a description of these review processes, including the outcomes, as well as
+a link or other access point to any supporting documentation._
+
+### Does the dataset relate to people?
+
+_If not, you may skip the remainder of the questions in this section._
+
+### Did you collect the data from the individuals in question directly, or obtain it via third parties or other sources (e.g., websites)?
+
+### Were the individuals in question notified about the data collection?
+
+_If so, please describe (or show with screenshots or other information) how notice was provided,
+and provide a link or other access point to, or otherwise reproduce, the exact language of the
+notification itself.
+
+### Did the individuals in question consent to the collection and use of their data?
+
+_If so, please describe (or show with screenshots or other information) how consent was
+requested and provided, and provide a link or other access point to, or otherwise reproduce, the
+exact language to which the individuals consented._
+
+### If consent was obtained, were the consenting individuals provided with a mechanism to revoke their consent in the future or for certain uses?
+
+_If so, please provide a description, as well as a link or other access point to the mechanism
+(if appropriate)._
+
+### Has an analysis of the potential impact of the dataset and its use on data subjects (e.g., a data protection impact analysis) been conducted?
+
+_If so, please provide a description of this analysis, including the outcomes, as well as a link
+or other access point to any supporting documentation._
+
+### Any other comments?
+
 ## Preprocessing/cleaning/labeling
 
 ## Uses
