@@ -2,7 +2,7 @@
 
 This is a template for a [datasheet for dataset](https://arxiv.org/abs/1803.09010).
 
-The template is [here](./datasheet-for-dataset-template.md)
+The template is [here](./datasheet-for-dataset-template.md).
 
 ## What is a datasheet for a dataset?
 
