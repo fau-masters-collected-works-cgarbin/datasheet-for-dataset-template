@@ -1,6 +1,6 @@
 # Datasheet for dataset "add dataset name here"
 
-Question from the [Datasheets for Datasets](https://arxiv.org/abs/1803.09010) paper, v7.
+Questions from the [Datasheets for Datasets](https://arxiv.org/abs/1803.09010) paper, v7.
 
 Jump to section:
 
@@ -12,11 +12,11 @@ Jump to section:
 - [Distribution](#distribution)
 - [Maintenance](#maintenance)
 
-The questions in this section are primarily intended to encourage dataset creators
-to clearly articulate their reasons for creating the dataset and to promote transparency
-about funding interests.
-
 ## Motivation
+
+_The questions in this section are primarily intended to encourage dataset creators
+to clearly articulate their reasons for creating the dataset and to promote transparency
+about funding interests._
 
 ### For what purpose was the dataset created? 
 
@@ -33,6 +33,12 @@ name and number._
 ### Any other comments?
 
 ## Composition
+
+_Most of these questions are intended to provide dataset consumers with the
+information they need to make informed decisions about using the dataset for
+specific tasks. The answers to some of these questions reveal information
+about compliance with the EU’s General Data Protection Regulation (GDPR) or
+comparable regulations in other jurisdictions._
 
 ### What do the instances that comprise the dataset represent (e.g., documents, photos, people, countries)?
 
@@ -115,6 +121,9 @@ _If so, please provide a description._
 
 ## Collection process
 
+_\[T\]he answers to questions here may provide information that allow others to
+reconstruct the dataset without access to it._
+
 ### How was the data associated with each instance acquired?
 
 _Was the data directly observable (e.g., raw text, movie ratings), reported by subjects (e.g.,
@@ -173,6 +182,11 @@ or other access point to any supporting documentation._
 
 ## Preprocessing/cleaning/labeling
 
+_The questions in this section are intended to provide dataset consumers with the information
+they need to determine whether the “raw” data has been processed in ways that are compatible
+with their chosen tasks. For example, text that has been converted into a “bag-of-words” is
+not suitable for tasks involving word order._
+
 ### Was any preprocessing/cleaning/labeling of the data done (e.g., discretization or bucketing, tokenization, part-of-speech tagging, SIFT feature extraction, removal of instances, processing of missing values)?
 
 _If so, please provide a description. If not, you may skip the remainder of the questions in
@@ -189,6 +203,11 @@ _If so, please provide a link or other access point._
 ### Any other comments?
 
 ## Uses
+
+_These questions are intended to encourage dataset creators to reflect on the tasks
+for which the dataset should and should not be used. By explicitly highlighting these tasks,
+dataset creators can help dataset consumers to make informed decisions, thereby avoiding
+potential risks or harms._
 
 ### Has the dataset been used for any tasks already?
 
@@ -246,6 +265,9 @@ reproduce, any supporting documentation._
 ### Any other comments?
 
 ## Maintenance
+
+_These questions are intended to encourage dataset creators to plan for dataset maintenance
+and communicate this plan with dataset consumers._
 
 ### Who is supporting/hosting/maintaining the dataset?
 
