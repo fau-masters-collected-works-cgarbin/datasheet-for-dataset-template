@@ -6,7 +6,7 @@ The template is [here](./datasheet-for-dataset-template.md).
 
 ## What is a datasheet for a dataset?
 
-[Datasheets for datasets](https://arxiv.org/abs/1803.09010) were created to increase transparency
+[Datasheets for datasets](https://arxiv.org/abs/1803.09010) was created to increase transparency
 of datasets.
 
 > [Datasheets for datasets] document [the dataset] motivation, composition, collection process,
@@ -22,14 +22,14 @@ The problem it is trying to solve:
 
 The datasheet is not a passive, after-the-fact document. Dataset creators are expected to read the
 questions in the _motivation_, _composition_, and _collection process_ sections **before** they start
-collecting data for the dataset. The questions in these sections have considerations that, if not taken
-into account before data is gathered, cannot be easily rectified later. Similarly, the dataset creators
-are expected to read the questions in the _preprocesssing/cleaning/labeling_, before they preprocessing
+collecting data for the dataset. The questions in these sections have considerations that cannot be easily rectified later if not taken
+into account before data is gathered. Similarly, the dataset creators
+are expected to read the questions in the _preprocesssing/cleaning/labeling_ section before they preprocess
 the raw data.
 
 ## Why use a markdown file for the datasheet?
 
-The short explanation: using a markdown file allows us to easily compare (diff) one version
+The short explanation: using a markdown file allows us to compare (diff) easily one version
 of the datasheet with another version. 
 
 The longer explanation:
@@ -44,5 +44,5 @@ Whenever there is a new version of the dataset, we also need to update its descr
 In other words, we need to update its datasheet.
 
 The datasheet distributed with a version should be in a format that is easy to compare with
-previous version, to allow us to quickly see what has been changed. Markdown is simple, text
+previous versions, to allow us to quickly see what has been changed. Markdown is a simple, text
 format, making it ideal for that.
