@@ -6,7 +6,7 @@ The template is [here](./datasheet-for-dataset-template.md).
 
 ## What is a datasheet for a dataset?
 
-[Datasheets for datasets](https://arxiv.org/abs/1803.09010) was created to increase transparency
+[Datasheets for datasets](https://arxiv.org/abs/1803.09010) were created to increase transparency
 of datasets.
 
 > [Datasheets for datasets] document [the dataset] motivation, composition, collection process,
@@ -46,3 +46,7 @@ In other words, we need to update its datasheet.
 The datasheet distributed with a version should be in a format that is easy to compare with
 previous versions, to allow us to quickly see what has been changed. Markdown is a simple, text
 format, making it ideal for that.
+
+## Examples of dataset datasheets
+
+- [CheXpert dataset datasheet](https://arxiv.org/abs/2105.03020)
