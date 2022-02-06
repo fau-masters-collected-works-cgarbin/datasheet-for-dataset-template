@@ -49,10 +49,10 @@ format, making it ideal for that.
 
 ## Examples of dataset datasheets
 
-- [CheXpert dataset datasheet](https://arxiv.org/abs/2105.03020)
-- Google's [face detection](https://modelcards.withgoogle.com/face-detection)
+- [CheXpert](https://arxiv.org/abs/2105.03020)
+- Google's [Face Detection](https://modelcards.withgoogle.com/face-detection)
 - NVIDIA's [DashCamNet](https://catalog.ngc.nvidia.com/orgs/nvidia/models/tlt_dashcamnet)
-- OpenAI's [GTP-3](https://github.com/openai/gpt-3/blob/master/model-card.md) and [CLIP](https://github.com/openai/CLIP/blob/main/model-card.md)
+- OpenAI's [GPT-3](https://github.com/openai/gpt-3/blob/master/model-card.md) and [CLIP](https://github.com/openai/CLIP/blob/main/model-card.md)
 
 ## Models cards
 
