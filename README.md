@@ -50,3 +50,7 @@ format, making it ideal for that.
 ## Examples of dataset datasheets
 
 - [CheXpert dataset datasheet](https://arxiv.org/abs/2105.03020)
+
+## Models cards
+
+If you are interested in datasheets for datasets, you may also want to review [model cards](https://github.com/fau-masters-collected-works-cgarbin/model-card-template).
