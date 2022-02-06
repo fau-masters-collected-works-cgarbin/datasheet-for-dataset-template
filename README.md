@@ -50,9 +50,11 @@ format, making it ideal for that.
 ## Examples of dataset datasheets
 
 - [CheXpert](https://arxiv.org/abs/2105.03020)
-- Google's [Face Detection](https://modelcards.withgoogle.com/face-detection)
-- NVIDIA's [DashCamNet](https://catalog.ngc.nvidia.com/orgs/nvidia/models/tlt_dashcamnet)
-- OpenAI's [GPT-3](https://github.com/openai/gpt-3/blob/master/model-card.md) and [CLIP](https://github.com/openai/CLIP/blob/main/model-card.md)
+- [Moview review polarity](https://dl.acm.org/doi/10.1145/3458723), a supplement to the publication of the [Datasheets for Datasets paper on the Communications of the ACM journal](https://cacm.acm.org/magazines/2021/12/256932-datasheets-for-datasets/fulltext#FNB) (the paper on [arXiv](https://arxiv.org/abs/1803.09010)).
+
+Google has been using a _data card_ to document its datasets. It is close to but not the same as the datasheet for dataset template.
+
+- Google's [Open Images Extended - MIAP](https://storage.googleapis.com/openimages/open_images_extended_miap/Open%20Images%20Extended%20-%20MIAP%20-%20Data%20Card.pdf) ([paper](https://storage.googleapis.com/openimages/web/extended.html))
 
 ## Models cards
 
